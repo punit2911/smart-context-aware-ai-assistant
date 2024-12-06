@@ -1,6 +1,4 @@
-Apologies for the confusion earlier! Here's the entire content you need in **one single file** as you requested. You can copy and paste this into your `README.md` file:
 
-```markdown
 # Smart Context-Aware AI Assistant (Backend)
 
 Welcome to the **Smart Context-Aware AI Assistant**! This project provides the backend API for an AI-powered assistant that can process user messages, generate responses, and remember context over time. The backend is built using **FastAPI**, **Pydantic**, and **Transformers** for seamless integration with NLP models like GPT-2.
