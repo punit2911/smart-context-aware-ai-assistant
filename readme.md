@@ -27,10 +27,10 @@ To get started with the project locally, follow these steps:
 ```bash
 git clone https://github.com/punit2911/smart-context-aware-ai-assistant.git
 
-cd smart-context-aware-ai-assista
-
+cd smart-context-aware-ai-assistant
+```
 ### 2. Set Up a Virtual Environment and Install Dependencies
-
+```
 - **Set up Virtual Environment**:
     - **Windows**:
       ```bash
